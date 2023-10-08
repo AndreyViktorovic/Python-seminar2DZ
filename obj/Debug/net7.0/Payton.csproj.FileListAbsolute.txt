@@ -1,0 +1,15 @@
+D:\Payton\bin\Debug\net7.0\Payton.exe
+D:\Payton\bin\Debug\net7.0\Payton.deps.json
+D:\Payton\bin\Debug\net7.0\Payton.runtimeconfig.json
+D:\Payton\bin\Debug\net7.0\Payton.dll
+D:\Payton\bin\Debug\net7.0\Payton.pdb
+D:\Payton\obj\Debug\net7.0\Payton.csproj.AssemblyReference.cache
+D:\Payton\obj\Debug\net7.0\Payton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Payton\obj\Debug\net7.0\Payton.AssemblyInfoInputs.cache
+D:\Payton\obj\Debug\net7.0\Payton.AssemblyInfo.cs
+D:\Payton\obj\Debug\net7.0\Payton.csproj.CoreCompileInputs.cache
+D:\Payton\obj\Debug\net7.0\Payton.dll
+D:\Payton\obj\Debug\net7.0\refint\Payton.dll
+D:\Payton\obj\Debug\net7.0\Payton.pdb
+D:\Payton\obj\Debug\net7.0\Payton.genruntimeconfig.cache
+D:\Payton\obj\Debug\net7.0\ref\Payton.dll
